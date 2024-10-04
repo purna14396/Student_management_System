@@ -12,11 +12,12 @@ pip install django
 python manage.py runserver
 ```
 
-## create a new student 
+
+## Display records
 ![Screenshot 2024-10-04 151100](https://github.com/user-attachments/assets/78efbf6f-b8b8-420d-8e96-81e046dc0aae)
 
 
-## Display records
+## create a new student 
 ![Screenshot 2024-10-04 151124](https://github.com/user-attachments/assets/7803664f-cac8-4d6d-b971-018152363cfc)
 
 
