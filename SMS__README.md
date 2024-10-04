@@ -11,3 +11,13 @@ pip install django
 ```
 python manage.py runserver
 ```
+
+## create a new student 
+
+## Display records
+
+## Update a student
+
+## Delete a student
+
+## Search for a student
